@@ -6,6 +6,6 @@ setuptools.setup(
     author='John Naeder',
     author_email='mike_huls@hotmail.com',
     description='Testing installation of Package',
-    url='https://github.com/mike-huls/toolbox',
+    url='https://github.com/jnaederSAE/test_package',
     packages=['test_package'],
 )

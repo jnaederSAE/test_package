@@ -7,5 +7,5 @@ setuptools.setup(
     author_email='mike_huls@hotmail.com',
     description='Testing installation of Package',
     url='https://github.com/jnaederSAE/test_package',
-    packages=['test_package'],
+    packages=setuptools.find_packages()
 )

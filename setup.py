@@ -6,7 +6,6 @@ setuptools.setup(
     author='John Naeder',
     description='Testing installation of Package',
     url='https://github.com/jnaederSAE/test_package',
-    install_requires=["pymssql==2.2.7",
-                      "python-dotenv==1.0.0"],
+    install_requires=[],
     packages=setuptools.find_packages()
 )
